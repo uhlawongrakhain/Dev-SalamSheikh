@@ -1,5 +1,3 @@
-![I'm a Front End Web Developer](https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/265968674_2123764201109629_6841235059083838157_n.jpg?stp=dst-jpg_p960x960&_nc_cat=105&ccb=1-6&_nc_sid=e3f864&_nc_eui2=AeFmD-OH7uJT0VJWLDFnXyIMhGYk9ht1R_iEZiT2G3VH-LeXysrqvNMs_IW4AkucgW6RPpGp1xWlvt_9Vfn-2X37&_nc_ohc=f6Fxcoluy1AAX9OeMC-&tn=u_ZgvdZdrJbC27EE&_nc_ht=scontent.fdac22-1.fna&oh=00_AT8mCfhU-EchSsDGzq2-veoToPXAaukR42teWV-m31TAow&oe=62890ADA)
-# Hi there 👋, I'm Salam Sheikh
 ### I'm a Front End Web Developer
 
 A 20 Years Old Boy From Bangladesh. Self Learner and love to write codes . There is nothing special to tell about me.  Working little hard to achieve success in future on this IT sector. I was dreaming from many years ago that i will be a freelancer.  But For Many Reasons That i could not make it possible, But Whatever, Now i'm Ready for do Hardwork. Basically now i'm learning web development and mostly i have completed Front End Web Development . Still Learning ..... Will keep Learning and as soon as possible i will convert my dream into reality...😁❤️
