@@ -19,8 +19,10 @@
 <br />
 <br />
 <br />
+<br />
+<br />
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Social Media's :</h2>
 <p align="center">
 <a href="https://twitter.com/ambivert_person" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ambivert_person" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-salamsheikh" height="30" width="40" /></a>
