@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dev.salamsheikh@gmail.com**
 
-- ⚡ Fun fact **Love to Play Mobile Games**
+- ⚡ Fun fact **Love to Play Games**
 
 <br />
 <br />
